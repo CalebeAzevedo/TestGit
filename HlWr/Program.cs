@@ -8,6 +8,8 @@ namespace HlWr
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Boa viagem Rex");
+            Console.WriteLine("REPOSITÓRIO LOCAL vs REMOTO");
+         
             Console.ReadLine();
 
         }
