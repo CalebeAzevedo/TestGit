@@ -7,6 +7,7 @@ namespace HlWr
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Boa viagem Rex");
             Console.ReadLine();
 
         }
